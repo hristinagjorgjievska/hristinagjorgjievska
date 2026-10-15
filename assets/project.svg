@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="170" viewBox="0 0 840 170">
+<style>.m{font-family:'JetBrains Mono','Fira Code',Menlo,Consolas,monospace}.s{font-family:'Quicksand','Segoe UI',Helvetica,Arial,sans-serif}.p{opacity:0;animation:in .7s ease .2s forwards}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}</style>
+<g class="p">
+<rect x="10" y="10" width="820" height="150" rx="16" fill="#fff7fb" stroke="#f9a8d4" stroke-width="2"/>
+<rect x="30" y="32" width="44" height="44" rx="12" fill="#fce7f3"/><text x="52" y="61" text-anchor="middle" font-size="20" fill="#ec4899">✿</text>
+<text x="90" y="52" class="m" font-size="19" font-weight="700" fill="#9d174d">mk-corpus-mcp-server</text>
+<text x="90" y="74" class="s" font-size="13.5" fill="#be185d">An MCP server that collects Macedonian-language texts, analyzes them and</text>
+<text x="90" y="94" class="s" font-size="13.5" fill="#be185d">contributes them to an open corpus for language preservation.</text>
+<g class="m" font-size="12" font-weight="700">
+<rect x="90" y="116" width="58" height="26" rx="13" fill="#fce7f3"/><text x="119" y="133" text-anchor="middle" fill="#9d174d">Java</text>
+<rect x="156" y="116" width="92" height="26" rx="13" fill="#fce7f3"/><text x="202" y="133" text-anchor="middle" fill="#9d174d">Spring AI</text>
+<rect x="256" y="116" width="102" height="26" rx="13" fill="#fce7f3"/><text x="307" y="133" text-anchor="middle" fill="#9d174d">PostgreSQL</text>
+<rect x="366" y="116" width="66" height="26" rx="13" fill="#fce7f3"/><text x="399" y="133" text-anchor="middle" fill="#9d174d">React</text>
+<rect x="440" y="116" width="52" height="26" rx="13" fill="#fce7f3"/><text x="466" y="133" text-anchor="middle" fill="#9d174d">MCP</text>
+</g>
+<text x="806" y="133" text-anchor="end" class="m" font-size="13" font-weight="700" fill="#ec4899">view repo →</text>
+</g>
+</svg>
