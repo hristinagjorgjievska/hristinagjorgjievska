@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Hristina Gjorgjievska" />
+</p>
 
-<!--
-**hristinagjorgjievska/hristinagjorgjievska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/hristina-gjorgjievska"><img src="https://img.shields.io/badge/LinkedIn-fce7f3?style=for-the-badge&logo=linkedin&logoColor=9d174d" /></a>
+  <a href="mailto:hristinagjorgjievska7@gmail.com"><img src="https://img.shields.io/badge/Email-fce7f3?style=for-the-badge&logo=gmail&logoColor=9d174d" /></a>
+</p>
 
-Here are some ideas to get you started:
+<img src="assets/skills.svg" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,docker,react,ts,git,idea&theme=light" />
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" />
+</p>
