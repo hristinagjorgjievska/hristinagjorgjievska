@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="280" viewBox="0 0 840 280">
+<style>.m{font-family:'JetBrains Mono','Fira Code',Menlo,Consolas,monospace;font-size:15px}.s{font-family:'Quicksand','Segoe UI',Helvetica,Arial,sans-serif}.l{opacity:0;animation:in .5s ease forwards}.l1{animation-delay:.2s}.l2{animation-delay:.6s}.l3{animation-delay:1s}.l4{animation-delay:1.4s}.l5{animation-delay:1.8s}.l6{animation-delay:2.2s}.l7{animation-delay:2.6s}@keyframes in{to{opacity:1}}.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}.f{animation:fl 6s ease-in-out infinite}.f2{animation-delay:2s}.f3{animation-delay:4s}@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}</style>
+<rect x="10" y="10" width="820" height="260" rx="18" fill="#fff7fb" stroke="#fbcfe8" stroke-width="2"/>
+<path d="M10 50V28a18 18 0 0 1 18-18h784a18 18 0 0 1 18 18v22z" fill="#fce7f3"/>
+<circle cx="38" cy="30" r="6" fill="#f9a8d4"/><circle cx="58" cy="30" r="6" fill="#f472b6"/><circle cx="78" cy="30" r="6" fill="#ec4899"/>
+<text x="420" y="35" text-anchor="middle" class="m" style="font-size:13px" fill="#be185d">hristina.java</text>
+<line x1="575" y1="62" x2="575" y2="255" stroke="#fce7f3" stroke-width="2"/>
+<text x="36" y="90" class="m l l1" fill="#d6a3bd" font-style="italic">// hello, world</text>
+<text x="36" y="122" class="m l l2"><tspan fill="#db2777">var</tspan><tspan fill="#831843"> hristina = </tspan><tspan fill="#db2777">new</tspan><tspan fill="#9d174d" font-weight="700"> Developer</tspan><tspan fill="#831843">()</tspan></text>
+<text x="60" y="152" class="m l l3"><tspan fill="#be185d">.studies</tspan><tspan fill="#831843">(</tspan><tspan fill="#ec4899">"Computer Science @ FINKI"</tspan><tspan fill="#831843">)</tspan></text>
+<text x="60" y="182" class="m l l4"><tspan fill="#be185d">.builds</tspan><tspan fill="#831843">(</tspan><tspan fill="#ec4899">"Spring Boot · React"</tspan><tspan fill="#831843">)</tspan></text>
+<text x="60" y="212" class="m l l5"><tspan fill="#be185d">.exploring</tspan><tspan fill="#831843">(</tspan><tspan fill="#ec4899">"LLMs · RAG · MCP"</tspan><tspan fill="#831843">)</tspan></text>
+<text x="60" y="242" class="m l l6"><tspan fill="#be185d">.basedIn</tspan><tspan fill="#831843">(</tspan><tspan fill="#ec4899">"Skopje, MK"</tspan><tspan fill="#831843">);</tspan></text>
+<g class="l l7"><rect class="cur" x="285" y="228" width="9" height="18" rx="1" fill="#ec4899"/></g>
+<text x="702" y="140" text-anchor="middle" class="s" font-size="34" font-weight="700" fill="#9d174d">Hristina</text>
+<text x="702" y="176" text-anchor="middle" class="s" font-size="22" font-weight="600" fill="#be185d">Gjorgjievska</text>
+<text x="702" y="210" text-anchor="middle" class="m" font-size="12" letter-spacing="2" fill="#ec4899">FULL-STACK · AI</text>
+<text x="612" y="96" class="f" font-size="16" fill="#f9a8d4">✿</text>
+<text x="790" y="110" class="f f2" font-size="12" fill="#f472b6">✿</text>
+<text x="785" y="240" class="f f3" font-size="18" fill="#fbcfe8">✿</text>
+</svg>
