@@ -17,7 +17,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,maven,python,django,postgres,mysql,docker,kubernetes,js,ts,react,vite,materialui,html,css,figma,git&theme=dark&perline=9" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cmaven%2Cpython%2Cdjango%2Cpostgres%2Cmysql%2Cdocker%2Ckubernetes%2Cjs%2Cts%2Creact%2Cvite%2Cmaterialui%2Chtml%2Ccss%2Cfigma%2Cgit&theme=dark&perline=9" />
     <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,postgres,mysql,docker,kubernetes,js,ts,react,vite,materialui,html,css,figma,git&theme=light&perline=9" />
   </picture>
 </p>
